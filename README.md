@@ -1,1 +1,2 @@
 # EntityFrameworkCore
+DatabaseFirst | CodeFirst | FluentAPI
