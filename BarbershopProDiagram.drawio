@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T18:12:22.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="ZMMc3PDPGLRdE--L3cic" version="21.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-11T18:29:47.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="RhXltYM2Py80ypwQVTcw" version="21.0.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="BarbershopPro_en">
     <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -513,7 +513,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BarbershopPro_tj" id="vgaV3oqTbOXkUqUhQiZM">
-    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="toxoCUBZxPt0hLzgaysc-0" />
         <mxCell id="toxoCUBZxPt0hLzgaysc-1" parent="toxoCUBZxPt0hLzgaysc-0" />
@@ -578,7 +578,7 @@
         <mxCell id="toxoCUBZxPt0hLzgaysc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-12" target="toxoCUBZxPt0hLzgaysc-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-12" value="Просмотр информации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-12" value="Шиносои бо маълумотҳо" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
           <mxGeometry x="648" y="243" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="toxoCUBZxPt0hLzgaysc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-17" target="toxoCUBZxPt0hLzgaysc-12">
@@ -590,7 +590,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-14" value="не удается" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toxoCUBZxPt0hLzgaysc-13">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-14" value="ноком" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toxoCUBZxPt0hLzgaysc-13">
           <mxGeometry x="-0.6828" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -598,18 +598,18 @@
         <mxCell id="toxoCUBZxPt0hLzgaysc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-17" target="toxoCUBZxPt0hLzgaysc-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-16" value="успешно" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toxoCUBZxPt0hLzgaysc-15">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-16" value="муваффақ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toxoCUBZxPt0hLzgaysc-15">
           <mxGeometry x="-0.2552" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-17" value="Регистрация в системе" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-17" value="Бақайдгири дар система" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
           <mxGeometry x="648" y="353" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="toxoCUBZxPt0hLzgaysc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-19" target="toxoCUBZxPt0hLzgaysc-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-19" value="Выбирает мастера, дата и время, услугу (или несколько услуг)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-19" value="Интихоби усто, рӯзу вақт, хизматрасонӣ (ё якчанд хизматрасониҳо)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
           <mxGeometry x="628" y="463" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="toxoCUBZxPt0hLzgaysc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-23" target="toxoCUBZxPt0hLzgaysc-12">
@@ -620,7 +620,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-21" value="если отменяет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toxoCUBZxPt0hLzgaysc-20">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-21" value="агар рад кунад" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toxoCUBZxPt0hLzgaysc-20">
           <mxGeometry x="-0.5911" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -628,7 +628,7 @@
         <mxCell id="toxoCUBZxPt0hLzgaysc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-23" target="toxoCUBZxPt0hLzgaysc-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-23" value="Просматривает информацию и принимает решение" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-23" value="Маълумотро дида мебарояд ва қарор қабул мекунад" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
           <mxGeometry x="628" y="603" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="toxoCUBZxPt0hLzgaysc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-25" target="toxoCUBZxPt0hLzgaysc-10">
@@ -638,7 +638,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-25" value="Получает информацию о новом заказе" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-25" value="Маълумот оиди навбати дигар дастрас менамояд" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
           <mxGeometry x="898" y="503" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="toxoCUBZxPt0hLzgaysc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-27" target="toxoCUBZxPt0hLzgaysc-4">
@@ -648,19 +648,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-27" value="За час до своей очереди получает сообщение от системы, где указывается общая информация" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-27" value="Як соат пеш аз навбати худ, паём фиристода мешавад, то инки мизоҷ фаромӯш накунад" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
           <mxGeometry x="238" y="523" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="toxoCUBZxPt0hLzgaysc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-29" target="toxoCUBZxPt0hLzgaysc-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-29" value="Услуга" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-29" value="Хизматрасонӣ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
           <mxGeometry x="368" y="353" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-30" value="В системе определяет дни и часы работы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-30" value="Рӯзҳою соатҳои кории худро муайян менамояд" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
           <mxGeometry x="928" y="243" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-31" value="Просматривает&amp;nbsp; расписание" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-31" value="Ҷадвали кории худро мебинад" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
           <mxGeometry x="1118" y="173" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="toxoCUBZxPt0hLzgaysc-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-35" target="toxoCUBZxPt0hLzgaysc-55">
@@ -684,7 +684,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-35" value="Отмечает неявку клиента в указанное время" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-35" value="Ҳолати дар вакти муайяншуда ҳозир нашудани мизоҷро қайд менамояд" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
           <mxGeometry x="1288" y="333" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="toxoCUBZxPt0hLzgaysc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-39" target="toxoCUBZxPt0hLzgaysc-44">
@@ -698,8 +698,8 @@
             <mxPoint x="928" y="928" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-39" value="За сутки до своей очереди может отменить, а также перенести в другое время" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
-          <mxGeometry x="628" y="883" width="160" height="90" as="geometry" />
+        <mxCell id="toxoCUBZxPt0hLzgaysc-39" value="Як руз пеш аз навбати худ, мизоҷ метавонад навбати худро бекор кунад ва ё инки ба вақти дигар гузаронад" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+          <mxGeometry x="628" y="883" width="182" height="90" as="geometry" />
         </mxCell>
         <mxCell id="toxoCUBZxPt0hLzgaysc-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-43" target="toxoCUBZxPt0hLzgaysc-27">
           <mxGeometry relative="1" as="geometry" />
@@ -707,13 +707,15 @@
         <mxCell id="toxoCUBZxPt0hLzgaysc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-43" target="toxoCUBZxPt0hLzgaysc-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-43" target="toxoCUBZxPt0hLzgaysc-39">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Id3wX3pCfLKDKkVuDVGC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="708" y="880" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-43" value="если соглашается и занимает очередь" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-43" value="Агар розӣ шавад" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
           <mxGeometry x="633" y="743" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-44" value="Отменяет свою очередь" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-44" value="Бекор кардани навбат" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
           <mxGeometry x="348" y="943" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="toxoCUBZxPt0hLzgaysc-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-46" target="toxoCUBZxPt0hLzgaysc-19">
@@ -723,7 +725,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-46" value="Перенесет очередь в другое время" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-46" value="Ба вақти дигар гузаронидан" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
           <mxGeometry x="348" y="863" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="toxoCUBZxPt0hLzgaysc-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-48" target="toxoCUBZxPt0hLzgaysc-53">
@@ -733,13 +735,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-48" value="В день и время очереди клиента" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-48" value="Дар рӯзу вақти навбати мизоҷ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
           <mxGeometry x="928" y="898" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="toxoCUBZxPt0hLzgaysc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-53" target="toxoCUBZxPt0hLzgaysc-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-50" value="&amp;nbsp;если не прибыл&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toxoCUBZxPt0hLzgaysc-49">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-50" value="&amp;nbsp;не ҳозир нашуд&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toxoCUBZxPt0hLzgaysc-49">
           <mxGeometry x="-0.6773" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -747,25 +749,26 @@
         <mxCell id="toxoCUBZxPt0hLzgaysc-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="toxoCUBZxPt0hLzgaysc-1" source="toxoCUBZxPt0hLzgaysc-53" target="toxoCUBZxPt0hLzgaysc-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1103" y="604" />
+              <mxPoint x="1103" y="618" />
+              <mxPoint x="1118" y="618" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-52" value="&amp;nbsp;прибыл&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toxoCUBZxPt0hLzgaysc-51">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-52" value="Ҳа" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toxoCUBZxPt0hLzgaysc-51">
           <mxGeometry x="-0.4545" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-53" value="Клиент прибывает?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-53" value="Мизоҷ ҳозир шуд?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
           <mxGeometry x="1028" y="763" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-54" value="In the time indicates start of the services, can change list&amp;lt;service&amp;gt;. After executing services closes order" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
-          <mxGeometry x="1118" y="555" width="180" height="98" as="geometry" />
+        <mxCell id="toxoCUBZxPt0hLzgaysc-54" value="Дар оғози иҷроиши хизматрасониҳо, дар система бояд нишон диҳад. Метавонад рӯйхати хизматрасониҳоро иваз намояд. Баъди иҷроиши хизматрасонӣ фармоишро маҳкам менамояд" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+          <mxGeometry x="1118" y="555" width="182" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-55" value="Штраф ба ҳаҷми 50%-и нархи хизматрасони пардохт менамояд" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-55" value="Ҷарима ба ҳаҷми 50%-и нархи хизматрасони пардохт менамояд" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
           <mxGeometry x="860" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="toxoCUBZxPt0hLzgaysc-56" value="Потеряет доступ к занятию очереди" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
+        <mxCell id="toxoCUBZxPt0hLzgaysc-56" value="Имконияти ба навбат истоданро гум мекунад" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="toxoCUBZxPt0hLzgaysc-1">
           <mxGeometry x="860" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
