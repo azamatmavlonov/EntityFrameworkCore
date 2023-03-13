@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T18:29:47.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="RhXltYM2Py80ypwQVTcw" version="21.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-13T08:46:56.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="Kta7bYUeOTEN5uj8OOtP" version="21.0.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="BarbershopPro_en">
     <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
         <mxCell id="LqBX9_z1AEjyvqA8qfm_-69" value="In the time indicates start of the services, can change list&amp;lt;service&amp;gt;. After executing services closes order" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1118" y="555" width="180" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="erfbeLXFbHnfc-jUGFT9-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="erfbeLXFbHnfc-jUGFT9-3">
+        <mxCell id="erfbeLXFbHnfc-jUGFT9-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="erfbeLXFbHnfc-jUGFT9-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1029.9999999999998" y="69.99999999999994" as="targetPoint" />
             <mxPoint x="723" y="123" as="sourcePoint" />
@@ -229,7 +229,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="erfbeLXFbHnfc-jUGFT9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="erfbeLXFbHnfc-jUGFT9-4">
+        <mxCell id="erfbeLXFbHnfc-jUGFT9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="erfbeLXFbHnfc-jUGFT9-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1340" y="333" as="sourcePoint" />
             <Array as="points">
@@ -239,15 +239,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="erfbeLXFbHnfc-jUGFT9-2" value="&amp;nbsp;either&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="erfbeLXFbHnfc-jUGFT9-1">
+        <mxCell id="erfbeLXFbHnfc-jUGFT9-2" value="&amp;nbsp;either&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="erfbeLXFbHnfc-jUGFT9-1" vertex="1" connectable="0">
           <mxGeometry x="0.3812" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="erfbeLXFbHnfc-jUGFT9-3" value="Pays a surcharge of 50% of the cost of service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="erfbeLXFbHnfc-jUGFT9-3" value="Pays a surcharge of 50% of the cost of service" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="860" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="erfbeLXFbHnfc-jUGFT9-4" value="Will lose access to the queue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="erfbeLXFbHnfc-jUGFT9-4" value="Will lose access to the queue" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="860" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
